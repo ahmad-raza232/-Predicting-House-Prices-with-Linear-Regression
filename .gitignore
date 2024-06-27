@@ -1,0 +1,18 @@
+# Python
+*.pyc
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+.env
+
+# Data files
+*.csv
+*.xlsx
+*.h5
+
+# Others
+.DS_Store
